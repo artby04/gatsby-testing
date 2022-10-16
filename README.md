@@ -5,12 +5,15 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's + Contentful Setup
+  Gatsby + Contentful Setup
 </h1>
 
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Testing Gatsby + Contentful Setup
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+Gatsby: "The future of web development is here.
+There’s a reason why the world’s top-performing website teams use Gatsby. Whether your site has 100 pages or 100,000 pages—we’re obsessed with delivering dynamic web experiences with performance and security that scales."
+
+Contentful (GrapgQL): "It’s the easiest, fastest way to manage content: Integrate your tools. Publish across channels. Unblock your team with our industry-leading app framework."
 
 ## 🚀 Quick start
 
